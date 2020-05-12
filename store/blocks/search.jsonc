@@ -21,9 +21,11 @@
       "search-fetch-previous",
       "search-content",
       "filter-navigator.v3",
-      "search-fetch-more"
+      "search-fetch-more",
+      "search-products-count-per-page"
     ],
     "props":{
+      "maxItemsPerPage": 10,
       "preventRouteChange": true
     }
   }
