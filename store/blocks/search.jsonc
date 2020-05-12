@@ -23,6 +23,9 @@
       "filter-navigator.v3",
       "search-fetch-more",
       "search-products-count-per-page"
-    ]
+    ],
+    "props":{
+      "maxItemsPerPage": 10
+    }
   }
 }
