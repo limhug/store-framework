@@ -112,8 +112,7 @@
     "props": {
       "src": "https://www.instagram.com/p/B973Qp8BacC/embed",
       "width": "800",
-      "height": "1000",
-      "blockClass": "containerIframe"
+      "height": "1000"
     }
   }
 }
