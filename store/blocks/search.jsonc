@@ -25,7 +25,7 @@
       "search-products-count-per-page"
     ],
     "props":{
-      "maxItemsPerPage": 10,
+      "pagination": true,
       "preventRouteChange": true
     }
   }
